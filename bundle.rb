@@ -6,6 +6,6 @@ bundle do |bundle|
   bundle.repository   = ""
   
   bundle.menu 'Symfony1' do |main_menu|
-    main_menu.command 'New Action'
+    main_menu.command 'Add Action'
   end
 end
