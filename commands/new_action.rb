@@ -1,5 +1,5 @@
 require 'ruble'
 
-command 'New Action' do |cmd|
+command 'Add Action' do |cmd|
   
 end
